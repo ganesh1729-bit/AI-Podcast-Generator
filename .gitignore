@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Generated media / assets
+*.wav
+*.mp3
+*_assets/
+!examples/*.wav

@@ -1,0 +1,10 @@
+# Core (always needed)
+requests>=2.31
+numpy>=1.24
+
+# Optional: nicer document inputs for --from-file
+pymupdf>=1.24      # PDF  (import name: fitz)
+python-docx>=1.1   # DOCX
+
+# Optional: the official Sarvam SDK (not required by this project)
+# sarvamai>=0.1

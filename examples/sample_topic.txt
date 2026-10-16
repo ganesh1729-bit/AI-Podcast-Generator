@@ -1,0 +1,5 @@
+How does India's UPI system actually work, and what does its next decade look like?
+
+Angles to cover: the plumbing (NPCI, VPA, the switch), why it beat card networks,
+interoperability, the UPI-lite and credit-on-UPI push, cross-border UPI, fraud and
+security trade-offs, and what the rise of AI agents paying on your behalf might mean.
